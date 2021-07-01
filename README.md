@@ -15,4 +15,5 @@ A demonstration of adjusting probabilities after training a model on a downsampl
 ## GeoPandas_Example.ipynb [US Maps in Python](https://www.meninderpurewal.com/data-meandering/us-maps-in-python)
 Creating a US Map in Python turns out to be straightforward
 
-## xkcd2480.ipynb [XKCD2480: No, The Other One]()
+## xkcd2480.ipynb [XKCD2480: No, The Other One](https://www.meninderpurewal.com/data-meandering/xkcd2480-no-the-other-one)
+Identifying cities that aren't the ones you expect
